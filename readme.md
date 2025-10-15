@@ -10,7 +10,9 @@ El estudiante debe ser capaz de reconocer y aplicar conceptos básicos del Parad
 
 ## Datos del estudiante
 Nombre del estudiante: Stiveen Paredes 
+
 Nivel: Estudiante 
+
 Carrera: Ingeniería en Software 
 
 ## Tareas a realizar
